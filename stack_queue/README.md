@@ -33,6 +33,4 @@ In a queue, the first element added is the first one to be removed, similar to w
 
 ## Conclusion
 
-Common use cases for stacks include managing function calls in a programming language (the call stack), parsing expressions, undo mechanisms in software, and solving problems recursively.
-
-Queues are commonly used in scenarios where tasks need to be executed in the order they are received, such as print job management, task scheduling, and breadth-first search algorithms.
+Common use cases for stacks include managing function calls in a programming language (the call stack), parsing expressions, undo mechanisms in software, and solving problems recursively. Where queues are commonly used in scenarios where tasks need to be executed in the order they are received, such as print job management, task scheduling, and breadth-first search algorithms.

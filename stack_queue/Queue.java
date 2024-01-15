@@ -5,6 +5,7 @@ import java.util.EmptyStackException;
 public class Queue {
     private int[] array;
     private int size;
+    // first element
     private int front;
     // last element
     private int rear;

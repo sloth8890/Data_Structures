@@ -19,3 +19,7 @@ javac stack_queue/*.java
 java stack_queue.Main
 ```
 ### [Tree](tree/README.md)
+```
+javac tree/*.java
+java tree.Main
+```

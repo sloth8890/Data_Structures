@@ -1,1 +1,4 @@
+# remove Test.java, and classes 
+Test.java
+
 *.class

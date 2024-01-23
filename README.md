@@ -6,19 +6,19 @@ This repository is implementation of various data structures for those who needs
 ## Contents
 Test commands displayed to the corresponding link. So you may fork this repository and modify the ```Main.java``` for testing your own curiosity.
 
-### [Linked List](linked_list/README.md)
+### [Linked List](data_structures/linked_list/README.md)
 
 ```
 javac linked_list/*.java
 java linked_list.Main
 ```
 
-### [Queue & Stack](stack_queue/README.md)
+### [Queue & Stack](data_structures/stack_queue/README.md)
 ```
 javac stack_queue/*.java
 java stack_queue.Main
 ```
-### [Tree](tree/README.md)
+### [Tree](data_structures/tree/README.md)
 ```
 javac tree/*.java
 java tree.Main
